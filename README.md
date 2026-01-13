@@ -20,6 +20,9 @@ docker exec app composer install
 
 # Применение миграций
 docker exec app php artisan migrate
+
+# Сгенерировать ключ приложения
+docker exec app php artisan key:generate
 ```
 
 ## Доступ к приложению
