@@ -3,7 +3,7 @@
 ### 1. Настройка переменных окружения
 
 ```bash
-cp src/.env.example src/.env
+cp .env.example .env
 ```
 ### 2. Запуск Docker-контейнеров
 
