@@ -11,7 +11,7 @@ cp src/.env.example src/.env
 docker compose up -d
 ```
 
-### 5. Установка зависимостей Laravel
+### 3. Установка зависимостей Laravel
 
 ```bash
 # Установка PHP зависимостей
